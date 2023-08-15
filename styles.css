@@ -34,5 +34,11 @@
         margin-right: 5px;
         
       }
-    
+
+   img.gameimage {
+       
+      width: 220px;
+      height: 280px;
+      float: left;
+     }
     
