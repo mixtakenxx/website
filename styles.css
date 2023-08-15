@@ -50,3 +50,8 @@
     padding: 1em;
 }
 
+.card > img {
+  float: left
+
+
+}
