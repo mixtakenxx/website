@@ -32,26 +32,4 @@
       
         float: left;
         margin-right: 5px;
-        
-      }
-
- 
-.card {
-    display: grid;
-    grid-template-columns: 30% 30%;
-    grid-gap: 1em;
-  
     
-    
- }
-
-.card > div {
-  
-    padding: 1em;
-}
-
-.card > img {
-  float: left
-
-
-}
